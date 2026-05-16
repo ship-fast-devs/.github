@@ -4,12 +4,12 @@ We build playful, developer-first products that turn everyday actions into termi
 
 Currently shipping:
 
-## swiggy.ssh
+## swiggy.dev
 
 Order food and groceries from your terminal.
 
 ```sh
-ssh swiggy.ssh
+ssh swiggy.dev
 ```
 
 No app switching. No browser tabs. Just a fast, keyboard-first way to get what you need.
